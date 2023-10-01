@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""pascal triangle."""
+
+"""
+pascal triangle.
+"""
 
 def pascal_triangle(n):
     if n <= 0:
